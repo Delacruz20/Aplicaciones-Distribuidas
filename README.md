@@ -95,7 +95,7 @@ _[⇧ Regresar al menú](https://github.com/Delacruz20/Aplicaciones-Distribuidas
 
 >Cliente en JavaScript interactúa con una API REST para gestionar usuarios mediante las siguientes funciones: `fetchUsers`, que obtiene y muestra todos los usuarios; `createUser`, que crea un nuevo usuario enviando los datos ingresados en un formulario; `deleteUser`, que elimina un usuario específico por su ID; y `fetchUserById`, que obtiene y muestra los detalles de un usuario por su ID. Las solicitudes HTTP se realizan utilizando `fetch` y los resultados se manejan para actualizar dinámicamente el contenido de la página web.
 
- _*Repositorio: [puedes descargar el ejercicio SOAP JDBC desde aqui](https://github.com/Delacruz20/Aplicaciones-Distribuidas/tree/main/5.Rest%20JDBC)*_ 
+ _*Repositorio: [puedes descargar el ejercicio Rest Spring Boot desde aqui](https://github.com/Delacruz20/Aplicaciones-Distribuidas/tree/main/5.Rest%20JDBC)*_ 
 
 ### Funcionamiento
 
@@ -115,7 +115,7 @@ _[⇧ Regresar al menú](https://github.com/Delacruz20/Aplicaciones-Distribuidas
 
 ## GraphQL
 
-> _*Repositorio: [puedes descargar el ejercicio SOAP JDBC desde aqui](https://github.com/Delacruz20/Aplicaciones-Distribuidas/tree/main/6.GraphQL)*_ 
+> _*Repositorio: [puedes descargar el ejercicio GraphQL desde aqui](https://github.com/Delacruz20/Aplicaciones-Distribuidas/tree/main/6.GraphQL)*_ 
 
 Para este ejercicio se trabajó de la siguiente manera
 
