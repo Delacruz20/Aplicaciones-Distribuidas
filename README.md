@@ -4,7 +4,7 @@
 
 1. [Sockets](https://github.com/Delacruz20/Aplicaciones-Distribuidas/tree/main?tab=readme-ov-file#Sockets)
 3. [WebSockets](https://github.com/Delacruz20/Aplicaciones-Distribuidas/tree/main?tab=readme-ov-file#Web-Sockets)
-2. [RMI JDBC](https://github.com/Delacruz20/Aplicaciones-Distribuidas/tree/main?tab=readme-ov-file#rmi-jdbc_)
+2. [RMI JDBC](https://github.com/Delacruz20/Aplicaciones-Distribuidas/tree/main?tab=readme-ov-file#RMI-JDBC)
 4. [SOAP JDBC](https://github.com/Delacruz20/Aplicaciones-Distribuidas/tree/main?tab=readme-ov-file#soap-jdbc)
 5. [Rest JDBC](https://github.com/Delacruz20/Aplicaciones-Distribuidas/tree/main?tab=readme-ov-file#rest-spring-boot)
 6. [GraphQL](https://github.com/Delacruz20/Aplicaciones-Distribuidas/tree/main?tab=readme-ov-file#graphql)
