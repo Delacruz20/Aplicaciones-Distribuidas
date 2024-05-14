@@ -4,7 +4,7 @@
 
 1. [Sockets](https://github.com/Delacruz20/Aplicaciones-Distribuidas/tree/main?tab=readme-ov-file#Sockets)
 3. [WebSockets](https://github.com/Delacruz20/Aplicaciones-Distribuidas/tree/main?tab=readme-ov-file#Web-Sockets)
-2. [RMI JDBC](https://github.com/Delacruz20/Aplicaciones-Distribuidas/tree/main?tab=readme-ov-file#RMI-JDBC)
+2. [RMI JDBC](https://github.com/Delacruz20/Aplicaciones-Distribuidas/tree/main?tab=readme-ov-file#rmi-jdbc)
 4. [SOAP JDBC](https://github.com/Delacruz20/Aplicaciones-Distribuidas/tree/main?tab=readme-ov-file#soap-jdbc)
 5. [Rest JDBC](https://github.com/Delacruz20/Aplicaciones-Distribuidas/tree/main?tab=readme-ov-file#rest-spring-boot)
 6. [GraphQL](https://github.com/Delacruz20/Aplicaciones-Distribuidas/tree/main?tab=readme-ov-file#graphql)
@@ -27,7 +27,7 @@
 
 _[⇧ Regresar al menú](https://github.com/JorgeLReyes/Aplicaciones-Distribuidas/tree/main?tab=readme-ov-file#aplicaciones-distribuidas)_
 
-## _** RMI JDBC**_
+## _**RMI JDBC**_
 >Realizado desde JAVA, servidor y cliente
 
  _*Repositorio: [puedes descargar el ejercicio RMI JDBC desde aqui](https://github.com/Delacruz20/Aplicaciones-Distribuidas/tree/main/3.RMI%20JDBC)*_ 
@@ -44,7 +44,7 @@ _[⇧ Regresar al menú](https://github.com/JorgeLReyes/Aplicaciones-Distribuida
 >>![imagen resultado](https://github.com/Delacruz20/Aplicaciones-Distribuidas/blob/main/images_funcionamiento/resultado_rmi.png)
 
 
-## _** Soap JDBC**_
+## _**Soap JDBC**_
 
 >Servicio web SOAP implementado en Java utilizando el framework JAX-WS. Este servicio web tiene cuatro operaciones: suma, resta, multiplicación y división. Cada operación realiza el cálculo respectivo y guarda la operación y el resultado en una base de datos utilizando JDBC.
 
@@ -64,7 +64,7 @@ _[⇧ Regresar al menú](https://github.com/JorgeLReyes/Aplicaciones-Distribuida
 >>![imagen bd](https://github.com/Delacruz20/Aplicaciones-Distribuidas/blob/main/images_funcionamiento/mysql_soap.png)
 
 
-## _** Rest Spring Boot**_
+## _**Rest Spring Boot**_
 
 >Esta API REST, desarrollada con Spring Boot, maneja las operaciones CRUD para el modelo de datos `UsuarioModel`. Utiliza un controlador (`UsuarioController`) que define rutas para obtener, guardar, buscar por prioridad y eliminar usuarios. El servicio (`UsuarioService`) implementa la lógica de negocio, interactuando con el repositorio (`UsuarioRepository`) que extiende `CrudRepository` para facilitar el acceso a la base de datos. La integración con Spring Boot permite una configuración simplificada y un desarrollo ágil, aprovechando las capacidades de Spring Data para gestionar las entidades, los datos son almacenados en MySQL.
 
