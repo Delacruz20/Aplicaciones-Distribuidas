@@ -38,6 +38,10 @@ Para este ejercicio se trabajó de la siguiente manera
 2. Cliente: HTML, CSS Y JS alojada en github pages
 3. Base de datos: Alojada en el servicio de Supabase
 
+### Funcionamiento
+_Operación desde el cliente_
+>>![imagen cliente](https://github.com/Delacruz20/Aplicaciones-Distribuidas/blob/main/images_funcionamiento/cliente_websockets.png)
+
 **Sitio web Cliente**
 _*[Ir al sitio web](https://delacruz20.github.io/Aplicaciones-Distribuidas/WebSockets/SocketClient/)*_
 
