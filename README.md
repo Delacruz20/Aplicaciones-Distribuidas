@@ -45,8 +45,8 @@ _Operación desde el cliente_
 **Sitio web Cliente**
 _*[Ir al sitio web](https://delacruz20.github.io/Aplicaciones-Distribuidas/WebSockets/SocketClient/)*_
 
-### Diagrama
->![imagen bd](https://github.com/Delacruz20/Aplicaciones-Distribuidas/blob/main/Diagramas/webSockets.png)
+#### Diagrama
+>![diagrama](https://github.com/Delacruz20/Aplicaciones-Distribuidas/blob/main/Diagramas/webSockets.png)
 
 [⇧ Regresar al menú](https://github.com/Delacruz20/Aplicaciones-Distribuidas/tree/main?tab=readme-ov-file#aplicaciones-distribuidas)
 
@@ -91,7 +91,7 @@ _[⇧ Regresar al menú](https://github.com/Delacruz20/Aplicaciones-Distribuidas
 _[⇧ Regresar al menú](https://github.com/Delacruz20/Aplicaciones-Distribuidas/tree/main?tab=readme-ov-file#aplicaciones-distribuidas)_
 
 #### Diagrama
->![imagen bd](https://github.com/Delacruz20/Aplicaciones-Distribuidas/blob/main/Diagramas/SOAP.jpg)
+>![diagrama](https://github.com/Delacruz20/Aplicaciones-Distribuidas/blob/main/Diagramas/SOAP.jpg)
 
 ## _**Rest Spring Boot**_
 
@@ -115,7 +115,7 @@ _[⇧ Regresar al menú](https://github.com/Delacruz20/Aplicaciones-Distribuidas
 _[⇧ Regresar al menú](https://github.com/Delacruz20/Aplicaciones-Distribuidas/tree/main?tab=readme-ov-file#aplicaciones-distribuidas)_
 
 #### Diagrama
->![imagen bd](https://github.com/Delacruz20/Aplicaciones-Distribuidas/blob/main/Diagramas/REST.jpg)
+>![diagrama](https://github.com/Delacruz20/Aplicaciones-Distribuidas/blob/main/Diagramas/REST.jpg)
 
 ## GraphQL
 
@@ -173,12 +173,15 @@ mutation {
 ### Funcionamiento
 
 >Servidor iniciado
->>![imagen cservidor](https://github.com/Delacruz20/Aplicaciones-Distribuidas/blob/main/images_funcionamiento/servidor_graphql.png)
+>>![imagen servidor](https://github.com/Delacruz20/Aplicaciones-Distribuidas/blob/main/images_funcionamiento/servidor_graphql.png)
 	
 >_Operación desde el cliente_
 >>![imagen cliente](https://github.com/Delacruz20/Aplicaciones-Distribuidas/blob/main/images_funcionamiento/cliente_graphql.png)
 
 > _BD MongoDB Atlas_
 >>![imagen bd](https://github.com/Delacruz20/Aplicaciones-Distribuidas/blob/main/images_funcionamiento/mongodb_graphql.png)
+
+#### Diagrama
+>![diagrama](https://github.com/Delacruz20/Aplicaciones-Distribuidas/blob/main/Diagramas/diagrama_graphql.jpg)
 
 [⇧ Regresar al menú](https://github.com/Delacruz20/Aplicaciones-Distribuidas/tree/main?tab=readme-ov-file#aplicaciones-distribuidas)
